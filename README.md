@@ -1,1 +1,2 @@
-# olga_karavaeva
+# Developer: AlexLitv 
+# Email: trustywork@gmail.com
